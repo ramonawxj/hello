@@ -1,2 +1,2 @@
 # hello
-demo for class
+Demo for class.
